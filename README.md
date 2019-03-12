@@ -1,2 +1,3 @@
 # VideoEffect
-Video animation on click of button
+
+![Video-effect](https://github.com/NiharikaSareen/VideoEffect/blob/master/Video-effect.gif)
