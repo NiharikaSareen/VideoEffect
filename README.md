@@ -7,7 +7,7 @@
 
 1. Install node.js
 2. Install nvm - https://github.com/nvm-sh/nvm
-3. In your project terminal below commands 
+3. In your project terminal below commands__ 
   3.a) `nvm install 16`
   
   3.b) `nvm use 16`
